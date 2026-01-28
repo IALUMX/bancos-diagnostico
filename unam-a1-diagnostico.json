@@ -1,0 +1,722 @@
+[
+  {
+    "id": "CEP00DC",
+    "question": "Postulado de la Teoría Celular que establece que todas las funciones vitales ocurren dentro de la célula.",
+    "image": null,
+    "options": [
+      { "text": "Unidad fisiológica", "correct": true },
+      { "text": "Unidad anatómica", "correct": false },
+      { "text": "Unidad de origen", "correct": false },
+      { "text": "Unidad genética", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se refiere al funcionamiento.",
+    "explanation": "La célula es la unidad fisiológica porque en ella se llevan a cabo todas las reacciones metabólicas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DD",
+    "question": "Organelo celular encargado de la respiración aerobia y la producción de ATP.",
+    "image": null,
+    "options": [
+      { "text": "Mitocondria", "correct": true },
+      { "text": "Ribosoma", "correct": false },
+      { "text": "Lisosoma", "correct": false },
+      { "text": "Aparato de Golgi", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la central energética de la célula.",
+    "explanation": "Las mitocondrias realizan la respiración celular para obtener energía en forma de ATP.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DE",
+    "question": "¿Qué molécula es el principal producto de la fase oscura de la fotosíntesis?",
+    "image": null,
+    "options": [
+      { "text": "Glucosa", "correct": true },
+      { "text": "Oxígeno", "correct": false },
+      { "text": "Agua", "correct": false },
+      { "text": "ATP", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Es un carbohidrato de 6 carbonos.",
+    "explanation": "En el ciclo de Calvin (fase oscura) se fija el $CO_2$ para sintetizar glucosa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DF",
+    "question": "Fase de la mitosis donde los cromosomas se alinean en el ecuador de la célula.",
+    "image": null,
+    "options": [
+      { "text": "Metafase", "correct": true },
+      { "text": "Profase", "correct": false },
+      { "text": "Anafase", "correct": false },
+      { "text": "Telofase", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "'Meta' significa medio.",
+    "explanation": "Durante la metafase, los cromosomas se ubican en la placa ecuatorial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DG",
+    "question": "Si cruzamos dos organismos heterocigotos (Aa x Aa), ¿cuál es la probabilidad de obtener un genotipo recesivo (aa)?",
+    "image": null,
+    "options": [
+      { "text": "25%", "correct": true },
+      { "text": "50%", "correct": false },
+      { "text": "75%", "correct": false },
+      { "text": "100%", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Haz un cuadro de Punnett.",
+    "explanation": "El cruce Aa x Aa produce: 25% AA, 50% Aa, 25% aa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DH",
+    "question": "Teoría que propone que la vida surgió a partir de moléculas inorgánicas en una atmósfera reductora (Caldo Primitivo).",
+    "image": null,
+    "options": [
+      { "text": "Quimiosintética (Oparin-Haldane)", "correct": true },
+      { "text": "Panspermia", "correct": false },
+      { "text": "Generación espontánea", "correct": false },
+      { "text": "Endosimbiótica", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Evolución química.",
+    "explanation": "Oparin y Haldane propusieron el origen físico-químico de la vida.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DI",
+    "question": "Mecanismo evolutivo propuesto por Darwin que establece la supervivencia del más apto.",
+    "image": null,
+    "options": [
+      { "text": "Selección natural", "correct": true },
+      { "text": "Uso y desuso", "correct": false },
+      { "text": "Mutación", "correct": false },
+      { "text": "Deriva génica", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "La naturaleza 'elige'.",
+    "explanation": "La selección natural favorece a los individuos con características ventajosas para su entorno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DJ",
+    "question": "Nivel trófico compuesto por organismos que producen su propio alimento.",
+    "image": null,
+    "options": [
+      { "text": "Productores", "correct": true },
+      { "text": "Consumidores primarios", "correct": false },
+      { "text": "Descomponedores", "correct": false },
+      { "text": "Consumidores secundarios", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Son autótrofos.",
+    "explanation": "Los productores (plantas, algas) transforman energía solar en química.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DK",
+    "question": "Son factores abióticos de un ecosistema:",
+    "image": null,
+    "options": [
+      { "text": "Luz, temperatura, agua", "correct": true },
+      { "text": "Plantas, animales, hongos", "correct": false },
+      { "text": "Bacterias, suelo, aire", "correct": false },
+      { "text": "Depredadores, presas, parásitos", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Componentes sin vida.",
+    "explanation": "Los factores abióticos son los elementos físicos y químicos del entorno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DL",
+    "question": "Un nucleótido de ADN está formado por:",
+    "image": null,
+    "options": [
+      { "text": "Fosfato, desoxirribosa y base nitrogenada", "correct": true },
+      { "text": "Fosfato, ribosa y base nitrogenada", "correct": false },
+      { "text": "Lípido, glucosa y base nitrogenada", "correct": false },
+      { "text": "Aminoácido, azúcar y fosfato", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "El azúcar es específico del ADN.",
+    "explanation": "El ADN contiene desoxirribosa; el ARN contiene ribosa.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DM",
+    "question": "Partícula subatómica con carga neutra que se encuentra en el núcleo.",
+    "image": null,
+    "options": [
+      { "text": "Neutrón", "correct": true },
+      { "text": "Protón", "correct": false },
+      { "text": "Electrón", "correct": false },
+      { "text": "Positrón", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Su nombre indica su carga.",
+    "explanation": "El neutrón no tiene carga eléctrica y reside en el núcleo junto al protón.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DN",
+    "question": "¿Qué es un isótopo?",
+    "image": null,
+    "options": [
+      { "text": "Átomos del mismo elemento con diferente número de neutrones.", "correct": true },
+      { "text": "Átomos con diferente número de protones.", "correct": false },
+      { "text": "Átomos con diferente número de electrones.", "correct": false },
+      { "text": "Moléculas con la misma fórmula pero diferente estructura.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Cambia su masa atómica, pero no su identidad química.",
+    "explanation": "Los isótopos tienen igual número atómico (Z) pero diferente número de masa (A).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DO",
+    "question": "Elemento con mayor electronegatividad en la tabla periódica.",
+    "image": null,
+    "options": [
+      { "text": "Flúor (F)", "correct": true },
+      { "text": "Francio (Fr)", "correct": false },
+      { "text": "Oxígeno (O)", "correct": false },
+      { "text": "Cloro (Cl)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Está en la esquina superior derecha (sin contar gases nobles).",
+    "explanation": "El Flúor es el elemento más electronegativo según la escala de Pauling.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DP",
+    "question": "Tipo de enlace químico donde hay transferencia de electrones de un metal a un no metal.",
+    "image": null,
+    "options": [
+      { "text": "Iónico", "correct": true },
+      { "text": "Covalente polar", "correct": false },
+      { "text": "Covalente no polar", "correct": false },
+      { "text": "Metálico", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se forman iones positivos y negativos.",
+    "explanation": "El enlace iónico ocurre por la atracción electrostática entre iones de cargas opuestas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DQ",
+    "question": "En la reacción $2H_2 + O_2 \\rightarrow 2H_2O$, el oxígeno actúa como:",
+    "image": null,
+    "options": [
+      { "text": "Reactivo", "correct": true },
+      { "text": "Producto", "correct": false },
+      { "text": "Catalizador", "correct": false },
+      { "text": "Precipitado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Está a la izquierda de la flecha.",
+    "explanation": "Las sustancias que inician la reacción se llaman reactivos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DR",
+    "question": "Calcula la masa molar del ácido sulfúrico ($H_2SO_4$). (H=1, S=32, O=16)",
+    "image": null,
+    "options": [
+      { "text": "98 g/mol", "correct": true },
+      { "text": "49 g/mol", "correct": false },
+      { "text": "196 g/mol", "correct": false },
+      { "text": "100 g/mol", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Suma las masas: $2(1) + 32 + 4(16)$.",
+    "explanation": "$2 + 32 + 64 = 98$ g/mol.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DS",
+    "question": "Sustancia que en solución acuosa libera iones $H^+$ y tiene un pH menor a 7.",
+    "image": null,
+    "options": [
+      { "text": "Ácido", "correct": true },
+      { "text": "Base", "correct": false },
+      { "text": "Sal", "correct": false },
+      { "text": "Óxido", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Como el limón o el vinagre.",
+    "explanation": "Según Arrhenius, los ácidos liberan protones ($H^+$) y tienen pH ácido (<7).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DT",
+    "question": "El aire es un ejemplo de mezcla:",
+    "image": null,
+    "options": [
+      { "text": "Homogénea", "correct": true },
+      { "text": "Heterogénea", "correct": false },
+      { "text": "Coloide", "correct": false },
+      { "text": "Suspensión", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No se distinguen sus componentes a simple vista.",
+    "explanation": "El aire es una disolución gaseosa uniforme (principalmente nitrógeno y oxígeno).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DU",
+    "question": "¿Cuál es la fórmula general de los alcanos?",
+    "image": null,
+    "options": [
+      { "text": "$C_nH_{2n+2}$", "correct": true },
+      { "text": "$C_nH_{2n}$", "correct": false },
+      { "text": "$C_nH_{2n-2}$", "correct": false },
+      { "text": "$C_nH_n$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Hidrocarburos saturados.",
+    "explanation": "Los alcanos tienen enlaces simples y la máxima cantidad de hidrógenos posible.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DV",
+    "question": "Grupo funcional presente en los alcoholes.",
+    "image": null,
+    "options": [
+      { "text": "Hidroxilo (-OH)", "correct": true },
+      { "text": "Carboxilo (-COOH)", "correct": false },
+      { "text": "Amino (-NH2)", "correct": false },
+      { "text": "Carbonilo (C=O)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Como en el etanol.",
+    "explanation": "El grupo -OH es característico de los alcoholes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DW",
+    "question": "Movimiento intelectual del siglo XVIII que exaltaba la razón como medio para combatir la ignorancia.",
+    "image": null,
+    "options": [
+      { "text": "Ilustración", "correct": true },
+      { "text": "Renacimiento", "correct": false },
+      { "text": "Humanismo", "correct": false },
+      { "text": "Positivismo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El Siglo de las Luces.",
+    "explanation": "La Ilustración fue la base ideológica de las revoluciones burguesas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DX",
+    "question": "Acontecimiento que marca el inicio de la Edad Contemporánea en 1789.",
+    "image": null,
+    "options": [
+      { "text": "Revolución Francesa", "correct": true },
+      { "text": "Independencia de las 13 Colonias", "correct": false },
+      { "text": "Revolución Industrial", "correct": false },
+      { "text": "Caída de Constantinopla", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Toma de la Bastilla.",
+    "explanation": "La Revolución Francesa derrocó el absolutismo y estableció principios liberales.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DY",
+    "question": "La Revolución Industrial trajo como consecuencia social:",
+    "image": null,
+    "options": [
+      { "text": "Surgimiento del proletariado y la burguesía industrial", "correct": true },
+      { "text": "Fortalecimiento de la nobleza feudal", "correct": false },
+      { "text": "Desaparición de las clases sociales", "correct": false },
+      { "text": "Aumento del trabajo artesanal y del esclavismo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Clase obrera vs dueños de los medios de producción.",
+    "explanation": "La industrialización cambió la estructura social, creando la clase obrera urbana.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00DZ",
+    "question": "Conferencia donde las potencias europeas se repartieron África a finales del siglo XIX.",
+    "image": null,
+    "options": [
+      { "text": "Conferencia de Berlín", "correct": true },
+      { "text": "Conferencia de Yalta", "correct": false },
+      { "text": "Tratado de Versalles", "correct": false },
+      { "text": "Congreso de Viena", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Ocurrió en 1884-1885.",
+    "explanation": "La Conferencia de Berlín reguló la colonización y comercio en África.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EA",
+    "question": "Causa detonante de la Primera Guerra Mundial.",
+    "image": null,
+    "options": [
+      { "text": "Asesinato del Archiduque Francisco Fernando", "correct": true },
+      { "text": "Invasión a Polonia", "correct": false },
+      { "text": "Hundimiento del Lusitania", "correct": false },
+      { "text": "Ataque a Pearl Harbor", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ocurrió en Sarajevo en 1914.",
+    "explanation": "El asesinato del heredero austrohúngaro activó el sistema de alianzas.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EB",
+    "question": "Evento que marca el inicio de la Gran Depresión económica de 1929.",
+    "image": null,
+    "options": [
+      { "text": "Caída de la Bolsa de Nueva York (Jueves Negro)", "correct": true },
+      { "text": "Fin de la Primera Guerra Mundial", "correct": false },
+      { "text": "Ascenso de Hitler al poder", "correct": false },
+      { "text": "Revolución Rusa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Crack financiero en Wall Street.",
+    "explanation": "El colapso del mercado de valores en EE.UU. desató una crisis mundial.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EC",
+    "question": "Bloques enfrentados durante la Segunda Guerra Mundial.",
+    "image": null,
+    "options": [
+      { "text": "El Eje y los Aliados", "correct": true },
+      { "text": "La Triple Entente y la Triple Alianza", "correct": false },
+      { "text": "Capitalistas y Socialistas", "correct": false },
+      { "text": "OTAN y Pacto de Varsovia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Alemania-Japón-Italia vs Inglaterra-Francia-URSS-EEUU.",
+    "explanation": "El Eje (regímenes totalitarios) luchó contra los Aliados.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00ED",
+    "question": "Enfrentamiento ideológico, político y económico entre EE.UU. y la URSS (1945-1991).",
+    "image": null,
+    "options": [
+      { "text": "Guerra Fría", "correct": true },
+      { "text": "Guerra de los Cien Años", "correct": false },
+      { "text": "Paz Armada", "correct": false },
+      { "text": "Distensión", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "No hubo enfrentamiento militar directo entre las potencias.",
+    "explanation": "Fue una lucha por la hegemonía mundial entre capitalismo y socialismo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EE",
+    "question": "Política de reestructuración económica implementada por Gorbachov en la URSS.",
+    "image": null,
+    "options": [
+      { "text": "Perestroika", "correct": true },
+      { "text": "Glasnost", "correct": false },
+      { "text": "New Deal", "correct": false },
+      { "text": "Plan Marshall", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Significa 'reestructuración' en ruso.",
+    "explanation": "La Perestroika buscaba reformar la economía soviética, lo que llevó a su colapso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EF",
+    "question": "Tendencia económica actual caracterizada por la interdependencia de mercados y culturas a nivel mundial.",
+    "image": null,
+    "options": [
+      { "text": "Globalización", "correct": true },
+      { "text": "Proteccionismo", "correct": false },
+      { "text": "Mercantilismo", "correct": false },
+      { "text": "Imperialismo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El mundo como una 'aldea global'.",
+    "explanation": "La globalización rompe barreras comerciales y culturales mediante la tecnología.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EG",
+    "question": "Cultura mesoamericana conocida como la 'Cultura Madre'.",
+    "image": null,
+    "options": [
+      { "text": "Olmeca", "correct": true },
+      { "text": "Maya", "correct": false },
+      { "text": "Azteca", "correct": false },
+      { "text": "Tolteca", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Cabezas colosales en Veracruz y Tabasco.",
+    "explanation": "Los Olmecas establecieron patrones culturales que heredaron otras civilizaciones.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EH",
+    "question": "Conquistador español que lideró la caída de Tenochtitlán en 1521.",
+    "image": null,
+    "options": [
+      { "text": "Hernán Cortés", "correct": true },
+      { "text": "Cristóbal Colón", "correct": false },
+      { "text": "Francisco Pizarro", "correct": false },
+      { "text": "Pedro de Alvarado", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Se alió con los tlaxcaltecas.",
+    "explanation": "Cortés dirigió la expedición que derrotó al imperio mexica.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EI",
+    "question": "Documento escrito por José María Morelos que sentó las bases políticas de la Independencia.",
+    "image": null,
+    "options": [
+      { "text": "Sentimientos de la Nación", "correct": true },
+      { "text": "Plan de Iguala", "correct": false },
+      { "text": "Tratados de Córdoba", "correct": false },
+      { "text": "Plan de Ayala", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Leído en el Congreso de Chilpancingo.",
+    "explanation": "Morelos expuso la independencia de América y la soberanía popular en este documento.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EJ",
+    "question": "Las Leyes de Reforma tuvieron como objetivo principal:",
+    "image": null,
+    "options": [
+      { "text": "Separar a la Iglesia del Estado", "correct": true },
+      { "text": "Prohibir la religión católica", "correct": false },
+      { "text": "Establecer una monarquía", "correct": false },
+      { "text": "Vender el territorio nacional", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Promulgadas por Benito Juárez.",
+    "explanation": "Buscaban quitar poder económico y político al clero y secularizar la sociedad.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EK",
+    "question": "Lema del gobierno de Porfirio Díaz.",
+    "image": null,
+    "options": [
+      { "text": "Orden y Progreso", "correct": true },
+      { "text": "Sufragio efectivo, no reelección", "correct": false },
+      { "text": "La tierra es de quien la trabaja", "correct": false },
+      { "text": "Democracia y Justicia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Basado en el positivismo.",
+    "explanation": "Díaz buscó la estabilidad política (Orden) para lograr el crecimiento económico (Progreso).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EL",
+    "question": "Líder revolucionario que promulgó el Plan de San Luis para derrocar a Díaz.",
+    "image": null,
+    "options": [
+      { "text": "Francisco I. Madero", "correct": true },
+      { "text": "Emiliano Zapata", "correct": false },
+      { "text": "Venustiano Carranza", "correct": false },
+      { "text": "Pancho Villa", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El 'Apóstol de la Democracia'.",
+    "explanation": "Madero convocó al levantamiento armado el 20 de noviembre de 1910.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EM",
+    "question": "Artículo de la Constitución de 1917 que trata sobre la educación.",
+    "image": null,
+    "options": [
+      { "text": "Artículo 3", "correct": true },
+      { "text": "Artículo 27", "correct": false },
+      { "text": "Artículo 123", "correct": false },
+      { "text": "Artículo 130", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Educación laica, gratuita y obligatoria.",
+    "explanation": "El artículo 3° establece las bases de la educación en México.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EN",
+    "question": "Presidente que decretó la Expropiación Petrolera en 1938.",
+    "image": null,
+    "options": [
+      { "text": "Lázaro Cárdenas", "correct": true },
+      { "text": "Plutarco Elías Calles", "correct": false },
+      { "text": "Álvaro Obregón", "correct": false },
+      { "text": "Miguel Alemán", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Creó PEMEX.",
+    "explanation": "Cárdenas nacionalizó la industria petrolera el 18 de marzo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EO",
+    "question": "Movimiento estudiantil reprimido el 2 de octubre de 1968 ocurrió bajo el gobierno de:",
+    "image": null,
+    "options": [
+      { "text": "Gustavo Díaz Ordaz", "correct": true },
+      { "text": "Luis Echeverría", "correct": false },
+      { "text": "López Mateos", "correct": false },
+      { "text": "Miguel de la Madrid", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Año de las Olimpiadas en México.",
+    "explanation": "La matanza de Tlatelolco sucedió durante la presidencia de Díaz Ordaz.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00EP",
+    "question": "Tratado comercial que entró en vigor en 1994 integrando a México con EE.UU. y Canadá.",
+    "image": null,
+    "options": [
+      { "text": "TLCAN (hoy T-MEC)", "correct": true },
+      { "text": "GATT", "correct": false },
+      { "text": "ALCA", "correct": false },
+      { "text": "Mercosur", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Firmado por Salinas de Gortari.",
+    "explanation": "El Tratado de Libre Comercio de América del Norte marcó la entrada al neoliberalismo pleno.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
