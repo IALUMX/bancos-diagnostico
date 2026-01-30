@@ -1,0 +1,678 @@
+[
+  {
+    "id": "CEP00AA",
+    "question": "Una persona presenta fatiga, sed excesiva y pérdida de peso involuntaria. Tras unos análisis, se determina que su páncreas no produce suficiente insulina. ¿A qué nivel de prevención corresponde la administración de insulina diaria para controlar sus niveles de glucosa y evitar un coma diabético?",
+    "image": null,
+    "options": [
+      { "text": "Prevención secundaria", "correct": true },
+      { "text": "Prevención primaria", "correct": false },
+      { "text": "Prevención terciaria", "correct": false },
+      { "text": "Promoción de la salud", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Esta etapa se enfoca en el diagnóstico temprano y el tratamiento oportuno para limitar el daño.",
+    "explanation": "La prevención secundaria tiene como objetivo el diagnóstico precoz y el tratamiento inmediato para detener el progreso de la enfermedad y prevenir complicaciones mayores.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AB",
+    "question": "Simplifica la siguiente expresión algebraica utilizando las leyes de los exponentes: $((x^3)^4)(x^2)^3$.",
+    "image": null,
+    "options": [
+      { "text": "$x^{18}$", "correct": true },
+      { "text": "$x^{12}$", "correct": false },
+      { "text": "$x^{24}$", "correct": false },
+      { "text": "$x^9$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Recuerda que $(a^m)^n = a^{m \\cdot n}$ y $a^m \\cdot a^n = a^{m+n}$.",
+    "explanation": "Primero elevamos las potencias: $(x^3)^4 = x^{12}$ y $(x^2)^3 = x^6$. Luego multiplicamos las bases iguales sumando exponentes: $x^{12} \\cdot x^6 = x^{12+6} = x^{18}$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AC",
+    "question": "Selecciona la opción que completa correctamente el enunciado con las grafías adecuadas: 'La __enofobia es un rechazo __cerbado hacia los extranjeros, lo cual no es un comportamiento __ensato.'",
+    "image": null,
+    "options": [
+      { "text": "x - ex - s", "correct": true },
+      { "text": "s - es - c", "correct": false },
+      { "text": "x - es - s", "correct": false },
+      { "text": "s - ex - z", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Relaciona con 'extranjero', 'exagerado' y 'sentido común'.",
+    "explanation": "Xenofobia se escribe con 'x'. Exacerbado lleva el prefijo 'ex-' y se escribe con 'c' antes de 'e'. Sensato se escribe con 's'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AD",
+    "question": "Identifica cuáles de los siguientes son elementos que conforman la Tríada Ecológica:\n1. Huésped\n2. Vector\n3. Agente Causal\n4. Síntoma\n5. Medio Ambiente",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 5", "correct": true },
+      { "text": "1, 2, 4", "correct": false },
+      { "text": "2, 3, 5", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Es el modelo tradicional de causalidad de las enfermedades infecciosas.",
+    "explanation": "La tríada ecológica está compuesta por el Agente (quien causa la enfermedad), el Huésped (quien la recibe) y el Medio Ambiente (el entorno que propicia el enlace).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AE",
+    "question": "Un estudio del CEPREDIX reporta que la probabilidad de que una persona tenga hipertensión es de $0.30$. Si se eligen dos personas al azar, calcula la probabilidad de que ambas tengan hipertensión y selecciona el término médico para la presión arterial alta sostenida.",
+    "image": null,
+    "options": [
+      { "text_op1": "0.09", "correct": true },
+      { "text_op1": "0.60", "correct": false },
+      { "text_op1": "0.15", "correct": false },
+      { "text_op1": "0.03", "correct": false },
+      { "text_op2": "Hipertensión", "correct": true },
+      { "text_op2": "Hipotensión", "correct": false },
+      { "text_op2": "Taquicardia", "correct": false },
+      { "text_op2": "Bradicardia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Son eventos independientes, multiplica las probabilidades. El término incluye el prefijo griego para 'exceso'.",
+    "explanation": "La probabilidad conjunta de eventos independientes es el producto: $0.30 \\times 0.30 = 0.09$. El término médico correcto es hipertensión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AF",
+    "question": "Relaciona las palabras con su antónimo correspondiente:\nI. Efímero\nII. Altruista\nIII. Inédito\n\nA. Egoísta\nB. Publicado\nC. Duradero",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-C, III-B", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Efímero es breve, altruista es generoso, inédito es nuevo o desconocido.",
+    "explanation": "Lo contrario de efímero (fugaz) es duradero. Lo contrario de altruista (que ayuda) es egoísta. Lo contrario de inédito (no conocido) es publicado (conocido/divulgado).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AG",
+    "question": "Completa el siguiente texto: 'El sistema ______ tiene como función principal la protección del cuerpo contra agentes externos y la regulación de la temperatura, siendo su órgano principal la ______.'",
+    "image": null,
+    "options": [
+      { "text": "Tegumentario, piel", "correct": true },
+      { "text": "Inmunológico, linfa", "correct": false },
+      { "text": "Nervioso, médula", "correct": false },
+      { "text": "Circulatorio, sangre", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Incluye uñas, cabello y glándulas sudoríparas.",
+    "explanation": "El sistema tegumentario está compuesto por la piel y sus anexos, y actúa como barrera física y termorreguladora.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AH",
+    "question": "Si el promedio de calificaciones de 5 alumnos es 8.4, ¿cuál es la suma total de sus calificaciones?",
+    "image": null,
+    "options": [
+      { "text": "42", "correct": true },
+      { "text": "40", "correct": false },
+      { "text": "41.5", "correct": false },
+      { "text": "84", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El promedio es la suma dividida entre el número de elementos ($P = S/n$).",
+    "explanation": "Despejando la suma: $S = P \\times n = 8.4 \\times 5 = 42$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AI",
+    "question": "La palabra _______________ se refiere al dolor intenso a lo largo del recorrido de un nervio. Identifica el término médico y clasifícalo según su acentuación.",
+    "image": null,
+    "options": [
+      { "text_op1": "Grave (llana)", "correct": true },
+      { "text_op1": "Aguda", "correct": false },
+      { "text_op1": "Esdrújula", "correct": false },
+      { "text_op1": "Sobreesdrújula", "correct": false },
+      { "text_op2": "Neuralgia", "correct": true },
+      { "text_op2": "Mialgia", "correct": false },
+      { "text_op2": "Artralgia", "correct": false },
+      { "text_op2": "Gastralgia", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Combina la raíz de 'nervio' con el sufijo de 'dolor'. Separa en sílabas considerando el hiato/diptongo.",
+    "explanation": "El término es Neuralgia (neuro + algia). Se divide neu-ral-gia. La fuerza de voz cae en 'ral', penúltima sílaba, por lo que es grave.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AJ",
+    "question": "Relaciona el orgánulo celular con su función específica:\nI. Ribosoma\nII. Mitocondria\nIII. Lisosoma\n\nA. Producción de ATP\nB. Digestión celular\nC. Síntesis de proteínas",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-C, III-A", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Las mitocondrias son las centrales energéticas, los ribosomas construyen cadenas de aminoácidos.",
+    "explanation": "Ribosoma -> Síntesis de proteínas; Mitocondria -> Respiración/ATP; Lisosoma -> Digestión/Limpieza.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AK",
+    "question": "Identifica los valores de $x$ que satisfacen la inecuación cuadrática $x^2 - 5x + 6 < 0$.",
+    "image": null,
+    "options": [
+      { "text": "$2 < x < 3$", "correct": true },
+      { "text": "$x < 2$ o $x > 3$", "correct": false },
+      { "text": "$-3 < x < -2$", "correct": false },
+      { "text": "$x > 6$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Factoriza el trinomio y analiza los signos de los factores en los intervalos generados.",
+    "explanation": "Factorizando: $(x-2)(x-3) < 0$. Para que el producto sea negativo, los factores deben tener signos opuestos. Esto ocurre solo en el intervalo entre las raíces 2 y 3.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AL",
+    "question": "Completa la oración con la opción que presenta la concordancia correcta: 'Una manada de lobos ______ cerca del río durante la noche.'",
+    "image": null,
+    "options": [
+      { "text": "aulló", "correct": true },
+      { "text": "aullaron", "correct": false },
+      { "text": "aullaban (plural)", "correct": false },
+      { "text": "aúllan (plural)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "'Manada' es un sustantivo colectivo en singular.",
+    "explanation": "Cuando el núcleo del sujeto es un sustantivo colectivo en singular (manada), el verbo debe conjugarse en singular (aulló), aunque se refiera a varios individuos.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AM",
+    "question": "¿Qué enfermedad se caracteriza por la alteración en la secuencia genética que provoca un crecimiento descontrolado de células anormales?",
+    "image": null,
+    "options": [
+      { "text": "Cáncer", "correct": true },
+      { "text": "Diabetes", "correct": false },
+      { "text": "Hipertensión", "correct": false },
+      { "text": "Tuberculosis", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Implica la formación de tumores malignos.",
+    "explanation": "El cáncer es un conjunto de enfermedades relacionadas en las que algunas células del cuerpo empiezan a dividirse sin detenerse y se diseminan a los tejidos circundantes.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AN",
+    "question": "Un equipo médico cuesta $\\$12,000$. Se ofrece un descuento inicial del $20\\%$ y un descuento adicional del $10\\%$ sobre el precio ya rebajado. Calcula el precio final y selecciona la categoría gramatical de la palabra 'adicional'.",
+    "image": null,
+    "options": [
+      { "text_op1": "$\\$8,640$", "correct": true },
+      { "text_op1": "$\\$8,400$", "correct": false },
+      { "text_op1": "$\\$9,600$", "correct": false },
+      { "text_op1": "$\\$9,000$", "correct": false },
+      { "text_op2": "Adjetivo", "correct": true },
+      { "text_op2": "Sustantivo", "correct": false },
+      { "text_op2": "Verbo", "correct": false },
+      { "text_op2": "Adverbio", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Aplica los descuentos en cadena: primero quita el 20%, al resultado quítale el 10%. La palabra califica al descuento.",
+    "explanation": "$12,000 \\times 0.8 = 9,600$; $9,600 \\times 0.9 = 8,640$. 'Adicional' modifica al sustantivo 'descuento', por lo tanto es un adjetivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AO",
+    "question": "Identifica la opción que presenta un error de puntuación.",
+    "image": null,
+    "options": [
+      { "text": "El paciente, que llegó tarde no fue atendido.", "correct": true },
+      { "text": "Si estudias mucho, aprobarás el examen.", "correct": false },
+      { "text": "Ana, ven aquí inmediatamente.", "correct": false },
+      { "text": "Compré manzanas, peras y uvas.", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Las oraciones explicativas deben ir entre comas (al inicio y al final de la explicación).",
+    "explanation": "Falta una coma después de 'tarde'. Lo correcto es: 'El paciente, que llegó tarde, no fue atendido'.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AP",
+    "question": "¿En qué estructura del aparato reproductor femenino ocurre la implantación del óvulo fecundado (blastocisto)?",
+    "image": null,
+    "options": [
+      { "text": "Endometrio (Útero)", "correct": true },
+      { "text": "Trompa de Falopio", "correct": false },
+      { "text": "Ovario", "correct": false },
+      { "text": "Cérvix", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Es la capa interna del útero que se desprende durante la menstruación si no hay embarazo.",
+    "explanation": "La implantación ocurre en el endometrio, que es el revestimiento interno del útero, preparado hormonalmente para recibir al embrión.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AQ",
+    "question": "Relaciona el tipo de triángulo con su característica principal:\nI. Equilátero\nII. Isósceles\nIII. Escaleno\n\nA. Dos lados iguales\nB. Tres lados diferentes\nC. Tres lados iguales",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Equi significa igual; Isos significa igual (pero solo dos).",
+    "explanation": "Equilátero (3 iguales), Isósceles (2 iguales), Escaleno (0 iguales).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AR",
+    "question": "En la oración 'El médico **prescribió** antibióticos', ¿cuál es la función gramatical de la palabra resaltada?",
+    "image": null,
+    "options": [
+      { "text": "Verbo transitivo", "correct": true },
+      { "text": "Sustantivo común", "correct": false },
+      { "text": "Adjetivo calificativo", "correct": false },
+      { "text": "Adverbio de tiempo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Indica la acción que realiza el sujeto y tiene un objeto directo (antibióticos).",
+    "explanation": "Es el núcleo del predicado, indica acción y transfiere la acción a un objeto directo, por lo que es un verbo transitivo.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AS",
+    "question": "En un cultivo bacteriano del CEPREDIX, la población se triplica cada hora. Si se inicia con 100 bacterias, determina la función que modela el crecimiento y calcula la población a las 4 horas.",
+    "image": null,
+    "options": [
+      { "text_op1": "8,100 bacterias", "correct": true },
+      { "text_op1": "1,200 bacterias", "correct": false },
+      { "text_op1": "400 bacterias", "correct": false },
+      { "text_op1": "2,700 bacterias", "correct": false },
+      { "text_op2": "$P(t) = 100(3)^t$", "correct": true },
+      { "text_op2": "$P(t) = 100(3t)$", "correct": false },
+      { "text_op2": "$P(t) = 100 + 3t$", "correct": false },
+      { "text_op2": "$P(t) = 3(100)^t$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Es un crecimiento exponencial con base 3.",
+    "explanation": "La función es exponencial $P(t) = P_0 \\cdot r^t$. A las 4 horas: $100 \\times 3^4 = 100 \\times 81 = 8,100$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AT",
+    "question": "Completa el siguiente enunciado con el conector discursivo adecuado: 'El paciente no siguió la dieta, ______, sus niveles de colesterol no bajaron.'",
+    "image": null,
+    "options": [
+      { "text": "por lo tanto", "correct": true },
+      { "text": "sin embargo", "correct": false },
+      { "text": "además", "correct": false },
+      { "text": "porque", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca una relación de causa-consecuencia.",
+    "explanation": "El conector 'por lo tanto' indica que la segunda proposición es consecuencia lógica de la primera.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AU",
+    "question": "Calcula el valor del ángulo $\\theta$ si un reloj marca las 4:00 horas.",
+    "image": null,
+    "options": [
+      { "text": "$120^\\circ$", "correct": true },
+      { "text": "$90^\\circ$", "correct": false },
+      { "text": "$150^\\circ$", "correct": false },
+      { "text": "$60^\\circ$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "El círculo completo tiene $360^\\circ$ y hay 12 divisiones de hora. ¿Cuánto vale cada hora?",
+    "explanation": "Cada hora representa $360/12 = 30^\\circ$. A las 4:00, hay 4 divisiones: $4 \\times 30^\\circ = 120^\\circ$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AV",
+    "question": "El término _______________ se utiliza para describir la inflamación del hígado. Identifica la palabra correcta y su prefijo.",
+    "image": null,
+    "options": [
+      { "text_op1": "Hepatitis", "correct": true },
+      { "text_op1": "Gastritis", "correct": false },
+      { "text_op1": "Nefritis", "correct": false },
+      { "text_op1": "Dermatitis", "correct": false },
+      { "text_op2": "Prefijo griego *hepa*- (hígado)", "correct": true },
+      { "text_op2": "Prefijo griego *gastro*- (estómago)", "correct": false },
+      { "text_op2": "Prefijo griego *nefro*- (riñón)", "correct": false },
+      { "text_op2": "Prefijo griego *derma*- (piel)", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "La raíz griega para hígado es 'hepa' o 'hepat'. El sufijo 'itis' indica inflamación.",
+    "explanation": "Hepatitis combina *hepatos* (hígado) con *itis* (inflamación).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AW",
+    "question": "En un grupo de 10 estudiantes del CEPREDIX, 4 quieren estudiar Medicina y 6 Ingeniería. Si se elige un estudiante al azar, ¿cuál es la probabilidad de que quiera estudiar Medicina?",
+    "image": null,
+    "options": [
+      { "text": "$2/5$", "correct": true },
+      { "text": "$3/5$", "correct": false },
+      { "text": "$1/2$", "correct": false },
+      { "text": "$4/100$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Divide los casos favorables (Medicina) entre el total de estudiantes.",
+    "explanation": "Probabilidad = Favorables / Total = $4/10 = 2/5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AX",
+    "question": "Selecciona las oraciones que están escritas correctamente:\n1. Hubieron muchos problemas.\n2. Hubo muchos problemas.\n3. La gente estaba contenta.\n4. La gente estaban contentas.\n5. Hacen días que no te veo.",
+    "image": null,
+    "options": [
+      { "text": "2, 3", "correct": true },
+      { "text": "1, 4", "correct": false },
+      { "text": "2, 5", "correct": false },
+      { "text": "1, 3", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "El verbo 'haber' como impersonal solo se usa en singular. 'Gente' es singular.",
+    "explanation": "'Hubo' es la forma correcta impersonal. 'Gente' concuerda en singular. 'Hacen días' es incorrecto, debe ser 'Hace días' (impersonal).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AY",
+    "question": "¿Cuál es la función principal de los glóbulos rojos (eritrocitos)?",
+    "image": null,
+    "options": [
+      { "text": "Transportar oxígeno", "correct": true },
+      { "text": "Coagulación sanguínea", "correct": false },
+      { "text": "Defensa inmune", "correct": false },
+      { "text": "Producción de hormonas", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Contienen hemoglobina, que se une al $O_2$.",
+    "explanation": "Los eritrocitos transportan oxígeno desde los pulmones a los tejidos y dióxido de carbono de regreso.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00AZ",
+    "question": "Calcula la distancia entre los puntos $A(1, 2)$ y $B(4, 6)$.",
+    "image": null,
+    "options": [
+      { "text": "5", "correct": true },
+      { "text": "7", "correct": false },
+      { "text": "25", "correct": false },
+      { "text": "4", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Usa el teorema de Pitágoras: $d = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$.",
+    "explanation": "$d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9+16} = \\sqrt{25} = 5$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BA",
+    "question": "Relaciona la palabra con su categoría gramatical en la oración 'El **rápido** corredor ganó':\nI. El\nII. Rápido\nIII. Corredor\n\nA. Adjetivo\nB. Sustantivo\nC. Artículo",
+    "image": null,
+    "options": [
+      { "text": "I-C, II-A, III-B", "correct": true },
+      { "text": "I-A, II-B, III-C", "correct": false },
+      { "text": "I-B, II-C, III-A", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "'El' determina, 'rápido' califica, 'corredor' nombra.",
+    "explanation": "El (Artículo), Rápido (Adjetivo), Corredor (Sustantivo).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BB",
+    "question": "La _______________ es la carencia de agua y sales minerales en el organismo. Identifica el término y el tipo de acento que posee.",
+    "image": null,
+    "options": [
+      { "text_op1": "Deshidratación", "correct": true },
+      { "text_op1": "Inanición", "correct": false },
+      { "text_op1": "Anemia", "correct": false },
+      { "text_op1": "Hipoxia", "correct": false },
+      { "text_op2": "Acento ortográfico (tilde)", "correct": true },
+      { "text_op2": "Acento prosódico", "correct": false },
+      { "text_op2": "Acento diacrítico", "correct": false },
+      { "text_op2": "Sin acento", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Prefijo 'des-' (sin) + 'hidra' (agua). La palabra termina en 'ción'.",
+    "explanation": "Deshidratación es la pérdida de agua. Al ser una palabra aguda terminada en 'n', lleva tilde (acento ortográfico).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BC",
+    "question": "Si $f(x) = 3x - 2$, halla la función inversa $f^{-1}(x)$.",
+    "image": null,
+    "options": [
+      { "text": "$\\frac{x+2}{3}$", "correct": true },
+      { "text": "$\\frac{x-2}{3}$", "correct": false },
+      { "text": "$3x + 2$", "correct": false },
+      { "text": "$\\frac{1}{3x-2}$", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Intercambia $x$ por $y$, y luego despeja la nueva $y$.",
+    "explanation": "$y = 3x - 2 \\Rightarrow x = 3y - 2 \\Rightarrow x + 2 = 3y \\Rightarrow y = (x+2)/3$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BD",
+    "question": "Completa: 'La ______ es un orgánulo exclusivo de la célula vegetal encargado de la fotosíntesis, mientras que la ______ celular le da rigidez.'",
+    "image": null,
+    "options": [
+      { "text": "Cloroplasto, pared", "correct": true },
+      { "text": "Mitocondria, membrana", "correct": false },
+      { "text": "Vacuola, cápsula", "correct": false },
+      { "text": "Ribosoma, pared", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "El pigmento verde está en el primero; la estructura rígida de celulosa es la segunda.",
+    "explanation": "El cloroplasto realiza fotosíntesis. La pared celular otorga soporte y rigidez.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BE",
+    "question": "Calcula la mediana del siguiente conjunto de datos: $3, 1, 5, 3, 9, 7$.",
+    "image": null,
+    "options": [
+      { "text": "4", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "4.6", "correct": false },
+      { "text": "5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II", "BUAP", "USEP"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Ordena los números de menor a mayor. Si hay un número par de datos, promedia los dos centrales.",
+    "explanation": "Ordenados: $1, 3, 3, 5, 7, 9$. Centrales: 3 y 5. Promedio: $(3+5)/2 = 4$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BF",
+    "question": "Selecciona el sinónimo de la palabra 'Prolífico'.",
+    "image": null,
+    "options": [
+      { "text": "Productivo", "correct": true },
+      { "text": "Estéril", "correct": false },
+      { "text": "Perezoso", "correct": false },
+      { "text": "Breve", "correct": false }
+    ],
+    "uni_tags": ["GENERAL"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Se dice de un escritor que escribe muchos libros o un ser vivo que tiene mucha descendencia.",
+    "explanation": "Prolífico significa que tiene virtud de engendrar o producir en abundancia.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BG",
+    "question": "Identifica los factores de riesgo cardiovascular:\n1. Tabaquismo\n2. Ejercicio regular\n3. Obesidad\n4. Dieta balanceada\n5. Sedentarismo",
+    "image": null,
+    "options": [
+      { "text": "1, 3, 5", "correct": true },
+      { "text": "2, 4, 5", "correct": false },
+      { "text": "1, 2, 3", "correct": false },
+      { "text": "3, 4, 5", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["BÁSICO"],
+    "type_tag": ["TEST"],
+    "hint": "Busca hábitos nocivos para el corazón.",
+    "explanation": "El tabaquismo, la obesidad y el sedentarismo aumentan la probabilidad de sufrir enfermedades del corazón.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BH",
+    "question": "Resuelve la siguiente ecuación para $x$: $\\log_3(x) + \\log_3(9) = 4$.",
+    "image": null,
+    "options": [
+      { "text": "9", "correct": true },
+      { "text": "3", "correct": false },
+      { "text": "27", "correct": false },
+      { "text": "81", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM", "EXANI II"],
+    "level_tag": ["AVANZADO"],
+    "type_tag": ["TEST"],
+    "hint": "Usa la propiedad $\\log(a) + \\log(b) = \\log(ab)$. Luego pasa a forma exponencial.",
+    "explanation": "$\\log_3(9x) = 4 \\Rightarrow 9x = 3^4 \\Rightarrow 9x = 81 \\Rightarrow x = 9$.",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BI",
+    "question": "Relaciona el vicio del lenguaje con su ejemplo:\nI. Pleonasmo\nII. Barbarismo\nIII. Cacofonía\n\nA. Subir para arriba\nB. Haiga\nC. Trabas tremendas tras traer",
+    "image": null,
+    "options": [
+      { "text": "I-A, II-B, III-C", "correct": true },
+      { "text": "I-B, II-A, III-C", "correct": false },
+      { "text": "I-C, II-B, III-A", "correct": false },
+      { "text": "I-A, II-C, III-B", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["TEST"],
+    "hint": "Pleonasmo es redundancia; Barbarismo es escribir mal; Cacofonía es mal sonido.",
+    "explanation": "Subir para arriba (Redundancia/Pleonasmo); Haiga (Incorrecto/Barbarismo); Trabas... (Sonido repetitivo/Cacofonía).",
+    "explanative_video": null,
+    "collapsible_text": null
+  },
+  {
+    "id": "CEP00BJ",
+    "question": "En un problema de optimización, un granjero quiere cercar un área rectangular máxima con $100 \\text{ m}$ de alambre. Calcula el área máxima y determina qué tipo de figura geométrica es la solución óptima.",
+    "image": null,
+    "options": [
+      { "text_op1": "$625 \\text{ m}^2$", "correct": true },
+      { "text_op1": "$2,500 \\text{ m}^2$", "correct": false },
+      { "text_op1": "$100 \\text{ m}^2$", "correct": false },
+      { "text_op1": "$50 \\text{ m}^2$", "correct": false },
+      { "text_op2": "Cuadrado", "correct": true },
+      { "text_op2": "Rectángulo no cuadrado", "correct": false },
+      { "text_op2": "Círculo", "correct": false },
+      { "text_op2": "Triángulo", "correct": false }
+    ],
+    "uni_tags": ["GENERAL", "UNAM", "IPN", "UAM"],
+    "level_tag": ["INTERMEDIO"],
+    "type_tag": ["HÍBRIDO"],
+    "hint": "Para un perímetro fijo, el área rectangular máxima se logra cuando los lados son iguales.",
+    "explanation": "$P = 2x + 2y = 100 \\Rightarrow x+y=50$. Área $A=xy$. Máximo cuando $x=y=25$. $A = 25 \\times 25 = 625$. Un rectángulo de lados iguales es un cuadrado.",
+    "explanative_video": null,
+    "collapsible_text": null
+  }
+]
